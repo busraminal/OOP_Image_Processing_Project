@@ -55,18 +55,19 @@ This project demonstrates:
 ## 🖼 Screenshots
 
 
-(screenshots/Ekran görüntüsü 2026-01-03 121751.png)
+![Blur](screenshots/Ekran görüntüsü 2026-01-03 121751.png)
 
 
-(screenshots/Ekran görüntüsü 2026-01-03 121818.png)
-
-(screenshots/Ekran görüntüsü 2026-01-03 121828.png)
+![Sharpen](screenshots/Ekran görüntüsü 2026-01-03 121818.png)
 
 
-(screenshots/Ekran görüntüsü 2026-01-03 122702.png)
+![Grayscale](screenshots/Ekran görüntüsü 2026-01-03 121828.png)
 
 
-(screenshots/Ekran görüntüsü 2026-01-03 123223.png)
+![Edge](screenshots/Ekran görüntüsü 2026-01-03 122702.png)
+
+
+![Invert](screenshots/Ekran görüntüsü 2026-01-03 123223.png)
 
 ---
 
