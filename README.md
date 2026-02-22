@@ -66,7 +66,7 @@ This project demonstrates:
 ### Edge Detection
 ![Edge](screenshots/Ekran%20görüntüsü%202026-01-03%20122702.png)
 
-### Invert Filter
+### Sepia Filter
 ![Invert](screenshots/Ekran%20görüntüsü%202026-01-03%20123223.png)
 ---
 
