@@ -55,20 +55,18 @@ This project demonstrates:
 ## 🖼 Screenshots
 
 
-![Blur](screenshots/Ekran görüntüsü 2026-01-03 121751.png)
+![Blur](screenshots/Ekran%20görüntüsü%202026-01-03%20121751.png)
+
+![Sharpen](screenshots/Ekran%20görüntüsü%202026-01-03%20121818.png)
 
 
-![Sharpen](screenshots/Ekran görüntüsü 2026-01-03 121818.png)
+![Grayscale](screenshots/Ekran%20görüntüsü%202026-01-03%20121828.png)
 
 
-![Grayscale](screenshots/Ekran görüntüsü 2026-01-03 121828.png)
+![Edge](screenshots/Ekran%20görüntüsü%202026-01-03%20122702.png)
 
 
-![Edge](screenshots/Ekran görüntüsü 2026-01-03 122702.png)
-
-
-![Invert](screenshots/Ekran görüntüsü 2026-01-03 123223.png)
-
+![Invert](screenshots/Ekran%20görüntüsü%202026-01-03%20123223.png)
 ---
 
 ## ⚙ Installation
