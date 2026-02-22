@@ -54,18 +54,19 @@ This project demonstrates:
 
 ## 🖼 Screenshots
 
-
+### Blur Filter
 ![Blur](screenshots/Ekran%20görüntüsü%202026-01-03%20121751.png)
 
+### Sharpen Filter
 ![Sharpen](screenshots/Ekran%20görüntüsü%202026-01-03%20121818.png)
 
-
+### Grayscale Filter
 ![Grayscale](screenshots/Ekran%20görüntüsü%202026-01-03%20121828.png)
 
-
+### Edge Detection
 ![Edge](screenshots/Ekran%20görüntüsü%202026-01-03%20122702.png)
 
-
+### Invert Filter
 ![Invert](screenshots/Ekran%20görüntüsü%202026-01-03%20123223.png)
 ---
 
