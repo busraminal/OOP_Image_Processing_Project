@@ -54,22 +54,19 @@ This project demonstrates:
 
 ## 🖼 Screenshots
 
-> Place your screenshots inside a folder named **screenshots/** in the project root.
 
-### Blur Filter
-![Blur](screenshots/Ekran görüntüsü 2026-01-03 121751.png)
+(screenshots/Ekran görüntüsü 2026-01-03 121751.png)
 
-### Sharpen Filter
-![Sharpen](screenshots/Ekran görüntüsü 2026-01-03 121818.png)
 
-### Grayscale Filter
-![Grayscale](screenshots/Ekran görüntüsü 2026-01-03 121828.png)
+(screenshots/Ekran görüntüsü 2026-01-03 121818.png)
 
-### Edge Detection
-![Edge](screenshots/Ekran görüntüsü 2026-01-03 122702.png)
+(screenshots/Ekran görüntüsü 2026-01-03 121828.png)
 
-### Invert Filter
-![Invert](screenshots/Ekran görüntüsü 2026-01-03 123223.png)
+
+(screenshots/Ekran görüntüsü 2026-01-03 122702.png)
+
+
+(screenshots/Ekran görüntüsü 2026-01-03 123223.png)
 
 ---
 
